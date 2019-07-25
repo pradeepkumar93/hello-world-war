@@ -4,7 +4,7 @@
 	<br>
 	<h1>MOHAN very good boy<h1>
 		<br>
-		<h1>mohan creat thist</h1>
+		<h1>mohan creat pradeep</h1>
 		<br>
 		<h1>Hello Sameer</h1>
 		<br>
